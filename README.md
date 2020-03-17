@@ -1,6 +1,5 @@
 # applebot
 
+url: t.me/apllefanbot
 
-
-t.me/apllefanbot
-
+Bot is offline now
